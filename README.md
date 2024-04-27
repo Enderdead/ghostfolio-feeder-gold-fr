@@ -1,6 +1,12 @@
-# Ghostfolio Data Feeder
+# Ghostfolio Data Feeder ( Gold fork )
+
 
 Ghostfolio-feeder extends the functionality of Ghostfolio by automatically adding data via internal APIs. The sources of the data are taken by scraping financial websites.
+
+## Note about the fork
+
+This fork was done to add a web scraping with golf.fr to get gold prices for coins and bars in euros (with the premium).
+The profiles.json is already fed with all items available on the website.
 
 ## Supported sources
 
@@ -12,6 +18,7 @@ Ghostfolio-feeder extends the functionality of Ghostfolio by automatically addin
 | fondofonte       | Italian pension fund              |
 | mvis             | Crypto indices used by Bitpanda   |
 | local            | CSV and JSON files stored locally |
+| gold_fr          | scraping from gold.fr             |
 
 ## Configuration
 
