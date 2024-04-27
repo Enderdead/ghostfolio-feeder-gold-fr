@@ -1,0 +1,388 @@
+[
+    {
+        "symbol": "NapCoq20F",
+        "profile_data": {
+            "assetClass": "COMMODITY",
+            "assetSubClass": "PRECIOUS_METAL",
+            "comment": "",
+            "currency": "EUR",
+            "name": "Napoleon 20F Coq",
+            "scraperConfiguration": {},
+            "symbolMapping": {}
+        },
+        "data_source": {
+            "name": "gold_fr",
+            "ticker": "NapCoq20F",
+            "start_date": "2019-01-01"
+        }
+    },
+    {
+        "symbol": "Nap20F",
+        "profile_data": {
+            "assetClass": "COMMODITY",
+            "assetSubClass": "PRECIOUS_METAL",
+            "currency": "EUR",
+            "name": "Napoleon 20F Coq (no tradable)",
+            "scraperConfiguration": {},
+            "symbolMapping": {}
+        },
+        "data_source": {
+            "name": "gold_fr",
+            "ticker": "Nap20F",
+            "start_date": "2012-01-01"
+        }
+    },
+    {
+        "symbol": "1KgGoldBar",
+        "profile_data": {
+            "assetClass": "COMMODITY",
+            "assetSubClass": "PRECIOUS_METAL",
+            "currency": "EUR",
+            "name": "1kg Gold Bar",
+            "scraperConfiguration": {},
+            "symbolMapping": {}
+        },
+        "data_source": {
+            "name": "gold_fr",
+            "ticker": "1KgGoldBar",
+            "start_date": "2012-01-01"
+        }
+    },
+    {
+        "symbol": "500gGoldBar",
+        "profile_data": {
+            "assetClass": "COMMODITY",
+            "assetSubClass": "PRECIOUS_METAL",
+            "currency": "EUR",
+            "name": "500g Gold Bar",
+            "scraperConfiguration": {},
+            "symbolMapping": {}
+        },
+        "data_source": {
+            "name": "gold_fr",
+            "ticker": "500gGoldBar",
+            "start_date": "2012-01-01"
+        }
+    },
+    {
+        "symbol": "250gGoldBar",
+        "profile_data": {
+            "assetClass": "COMMODITY",
+            "assetSubClass": "PRECIOUS_METAL",
+            "currency": "EUR",
+            "name": "250g Gold Bar",
+            "scraperConfiguration": {},
+            "symbolMapping": {}
+        },
+        "data_source": {
+            "name": "gold_fr",
+            "ticker": "250gGoldBar",
+            "start_date": "2012-01-01"
+        }
+    },
+    {
+        "symbol": "100gGoldBar",
+        "profile_data": {
+            "assetClass": "COMMODITY",
+            "assetSubClass": "PRECIOUS_METAL",
+            "currency": "EUR",
+            "name": "100g Gold Bar",
+            "scraperConfiguration": {},
+            "symbolMapping": {}
+        },
+        "data_source": {
+            "name": "gold_fr",
+            "ticker": "100gGoldBar",
+            "start_date": "2012-01-01"
+        }
+    },
+    {
+        "symbol": "50gGoldBar",
+        "profile_data": {
+            "assetClass": "COMMODITY",
+            "assetSubClass": "PRECIOUS_METAL",
+            "currency": "EUR",
+            "name": "50g Gold Bar",
+            "scraperConfiguration": {},
+            "symbolMapping": {}
+        },
+        "data_source": {
+            "name": "gold_fr",
+            "ticker": "50gGoldBar",
+            "start_date": "2012-01-01"
+        }
+    },
+    {
+        "symbol": "10gGoldBar",
+        "profile_data": {
+            "assetClass": "COMMODITY",
+            "assetSubClass": "PRECIOUS_METAL",
+            "currency": "EUR",
+            "name": "10g Gold Bar",
+            "scraperConfiguration": {},
+            "symbolMapping": {}
+        },
+        "data_source": {
+            "name": "gold_fr",
+            "ticker": "10gGoldBar",
+            "start_date": "2012-01-01"
+        }
+    },
+    {
+        "symbol": "5gGoldBar",
+        "profile_data": {
+            "assetClass": "COMMODITY",
+            "assetSubClass": "PRECIOUS_METAL",
+            "currency": "EUR",
+            "name": "5g Gold Bar",
+            "scraperConfiguration": {},
+            "symbolMapping": {}
+        },
+        "data_source": {
+            "name": "gold_fr",
+            "ticker": "5gGoldBar",
+            "start_date": "2012-01-01"
+        }
+    },
+    {
+        "symbol": "Eagle20",
+        "profile_data": {
+            "assetClass": "COMMODITY",
+            "assetSubClass": "PRECIOUS_METAL",
+            "currency": "EUR",
+            "name": "20 US dollar eagle",
+            "scraperConfiguration": {},
+            "symbolMapping": {}
+        },
+        "data_source": {
+            "name": "gold_fr",
+            "ticker": "Eagle20",
+            "start_date": "2012-01-01"
+        }
+    },
+    {
+        "symbol": "Eagle10",
+        "profile_data": {
+            "assetClass": "COMMODITY",
+            "assetSubClass": "PRECIOUS_METAL",
+            "currency": "EUR",
+            "name": "10 US dollar eagle",
+            "scraperConfiguration": {},
+            "symbolMapping": {}
+        },
+        "data_source": {
+            "name": "gold_fr",
+            "ticker": "Eagle10",
+            "start_date": "2012-01-01"
+        }
+    },
+    {
+        "symbol": "Eagle5",
+        "profile_data": {
+            "assetClass": "COMMODITY",
+            "assetSubClass": "PRECIOUS_METAL",
+            "currency": "EUR",
+            "name": "5 US dollar eagle",
+            "scraperConfiguration": {},
+            "symbolMapping": {}
+        },
+        "data_source": {
+            "name": "gold_fr",
+            "ticker": "Eagle5",
+            "start_date": "2012-01-01"
+        }
+    },
+    {
+        "symbol": "Swiss20F",
+        "profile_data": {
+            "assetClass": "COMMODITY",
+            "assetSubClass": "PRECIOUS_METAL",
+            "currency": "EUR",
+            "name": "20F Swiss",
+            "scraperConfiguration": {},
+            "symbolMapping": {}
+        },
+        "data_source": {
+            "name": "gold_fr",
+            "ticker": "Swiss20F",
+            "start_date": "2012-01-01"
+        }
+    },
+    {
+        "symbol": "50Pesos",
+        "profile_data": {
+            "assetClass": "COMMODITY",
+            "assetSubClass": "PRECIOUS_METAL",
+            "currency": "EUR",
+            "name": "50 pesos mexican",
+            "scraperConfiguration": {},
+            "symbolMapping": {}
+        },
+        "data_source": {
+            "name": "gold_fr",
+            "ticker": "50Pesos",
+            "start_date": "2012-01-01"
+        }
+    },
+    {
+        "symbol": "Krug",
+        "profile_data": {
+            "assetClass": "COMMODITY",
+            "assetSubClass": "PRECIOUS_METAL",
+            "currency": "EUR",
+            "name": "Krug gold",
+            "scraperConfiguration": {},
+            "symbolMapping": {}
+        },
+        "data_source": {
+            "name": "gold_fr",
+            "ticker": "Krug",
+            "start_date": "2012-01-01"
+        }
+    },
+    {
+        "symbol": "GeoSovGV",
+        "profile_data": {
+            "assetClass": "COMMODITY",
+            "assetSubClass": "PRECIOUS_METAL",
+            "currency": "EUR",
+            "name": "GeoSovGV",
+            "scraperConfiguration": {},
+            "symbolMapping": {}
+        },
+        "data_source": {
+            "name": "gold_fr",
+            "ticker": "GeoSovGV",
+            "start_date": "2012-01-01"
+        }
+    },
+    {
+        "symbol": "ElizSovEII",
+        "profile_data": {
+            "assetClass": "COMMODITY",
+            "assetSubClass": "PRECIOUS_METAL",
+            "currency": "EUR",
+            "name": "ElizSovEII",
+            "scraperConfiguration": {},
+            "symbolMapping": {}
+        },
+        "data_source": {
+            "name": "gold_fr",
+            "ticker": "ElizSovEII",
+            "start_date": "2012-01-01"
+        }
+    },
+    {
+        "symbol": "NapCoq10F",
+        "profile_data": {
+            "assetClass": "COMMODITY",
+            "assetSubClass": "PRECIOUS_METAL",
+            "currency": "EUR",
+            "name": "NapCoq10F",
+            "scraperConfiguration": {},
+            "symbolMapping": {}
+        },
+        "data_source": {
+            "name": "gold_fr",
+            "ticker": "NapCoq10F",
+            "start_date": "2012-01-01"
+        }
+    },
+    {
+        "symbol": "HalfSov",
+        "profile_data": {
+            "assetClass": "COMMODITY",
+            "assetSubClass": "PRECIOUS_METAL",
+            "currency": "EUR",
+            "name": "HalfSov",
+            "scraperConfiguration": {},
+            "symbolMapping": {}
+        },
+        "data_source": {
+            "name": "gold_fr",
+            "ticker": "HalfSov",
+            "start_date": "2012-01-01"
+        }
+    },
+    {
+        "symbol": "Flor10",
+        "profile_data": {
+            "assetClass": "COMMODITY",
+            "assetSubClass": "PRECIOUS_METAL",
+            "currency": "EUR",
+            "name": "Flor10",
+            "scraperConfiguration": {},
+            "symbolMapping": {}
+        },
+        "data_source": {
+            "name": "gold_fr",
+            "ticker": "Flor10",
+            "start_date": "2012-01-01"
+        }
+    },
+    {
+        "symbol": "Reich20",
+        "profile_data": {
+            "assetClass": "COMMODITY",
+            "assetSubClass": "PRECIOUS_METAL",
+            "currency": "EUR",
+            "name": "Reich20",
+            "scraperConfiguration": {},
+            "symbolMapping": {}
+        },
+        "data_source": {
+            "name": "gold_fr",
+            "ticker": "Reich20",
+            "start_date": "2012-01-01"
+        }
+    },
+    {
+        "symbol": "UL20F",
+        "profile_data": {
+            "assetClass": "COMMODITY",
+            "assetSubClass": "PRECIOUS_METAL",
+            "currency": "EUR",
+            "name": "Union latin gold 20F",
+            "scraperConfiguration": {},
+            "symbolMapping": {}
+        },
+        "data_source": {
+            "name": "gold_fr",
+            "ticker": "UL20F",
+            "start_date": "2012-01-01"
+        }
+    },
+    {
+        "symbol": "BritGold1-4Oz",
+        "profile_data": {
+            "assetClass": "COMMODITY",
+            "assetSubClass": "PRECIOUS_METAL",
+            "currency": "EUR",
+            "name": "Britania 1/4 oz gold",
+            "scraperConfiguration": {},
+            "symbolMapping": {}
+        },
+        "data_source": {
+            "name": "gold_fr",
+            "ticker": "BritGold1-4Oz",
+            "start_date": "2012-01-01"
+        }
+    },
+    {
+        "symbol": "BritSilverOz",
+        "profile_data": {
+            "assetClass": "COMMODITY",
+            "assetSubClass": "PRECIOUS_METAL",
+            "currency": "EUR",
+            "name": "Britania 1 oz silver",
+            "scraperConfiguration": {},
+            "symbolMapping": {}
+        },
+        "data_source": {
+            "name": "gold_fr",
+            "ticker": "BritSilverOz",
+            "start_date": "2012-01-01"
+        }
+    }
+
+]

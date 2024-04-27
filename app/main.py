@@ -3,7 +3,7 @@ from os import path, getenv
 from time import sleep
 from ghostfolio_feeder import ghostfolio_feeder
 from time_interval import crontab_sleep
-
+import traceback 
 
 def loop(host: str, access_token: str, crontab: str) -> None:
     json_file_path = path.join(path.dirname(__file__), 'data', 'profiles.json')
@@ -22,7 +22,7 @@ def loop(host: str, access_token: str, crontab: str) -> None:
                     data['data_source']
                 )
             except Exception as e:
-                print(f"ERROR: {e}")
+                print(traceback.print_exc() )
 
         seconds_next_interval = crontab_sleep(crontab)
         print(f"Wait {seconds_next_interval} seconds until the next loop")

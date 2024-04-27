@@ -4,6 +4,7 @@ from .byblos import byblos
 from .boerse_frankfurt import boerse_frankfurt
 from .fondofonte import fondofonte
 from .local import local
+from .gold import gold_fr
 
 
 class Market:
@@ -50,6 +51,10 @@ class Market:
         """Fetches market data from local source."""
         return local(self.ticker, self.start_date, self.end_date)
 
+    def gold(self) -> list:
+        """Fetches stock data from MVIS."""
+        return gold_fr(self.ticker, self.start_date, self.end_date)
+
 
 data_source_mapping = {
     "mvis": Market.mvis,
@@ -58,4 +63,5 @@ data_source_mapping = {
     "boerse_frankfurt": Market.boerse_frankfurt,
     "fondofonte": Market.fondofonte,
     "local": Market.local,
+    "gold_fr": Market.gold
 }
