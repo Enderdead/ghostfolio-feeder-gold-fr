@@ -21,7 +21,7 @@ _GOLD_TICKER_URL = {
    "250gGoldBar"    :  "https://www.gold.fr/lingotin-d-or-250g/?begin_date={origin_year}&compare_to=#graphs",
    "100gGoldBar"    :  "https://www.gold.fr/lingotin-d-or-100g/?begin_date={origin_year}&compare_to=#graphs",
    "50gGoldBar"    :  "https://www.gold.fr/lingotin-d-or-50g/?begin_date={origin_year}&compare_to=#graphs",
-   "10gGoldBar"    :  "https://www.gold.fr/lingotin-d-or-50g/?begin_date={origin_year}&compare_to=#graphs",
+   "10gGoldBar"    :  "https://www.gold.fr/lingotin-d-or-10g/?begin_date={origin_year}&compare_to=#graphs",
    "5gGoldBar"    :  "https://www.gold.fr/lingotin-d-or-5g/?begin_date={origin_year}&compare_to=#graphs",
    "Eagle20" :  "https://www.gold.fr/20-us/?begin_date={origin_year}&compare_to=#graphs",
    "Eagle10" :  "https://www.gold.fr/10-us/?begin_date={origin_year}&compare_to=#graphs",
